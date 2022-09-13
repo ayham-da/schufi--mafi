@@ -13,8 +13,8 @@
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <script type="text/javascript">
       (function(l) {
-        if (l.search[4] === '/' ) {
-          var decoded = l.search.slice(1).split('&').map(function(s) {
+        if (l.search[3] === '/' ) {
+          var decoded = l.search.slice(3).split('&').map(function(s) {
             return s.replace(/~and~/g, '&')
           }).join('?');
           window.history.replaceState(null, null,
