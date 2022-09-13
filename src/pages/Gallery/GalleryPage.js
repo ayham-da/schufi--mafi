@@ -16,11 +16,11 @@ function GalleryPage() {
     return (
         <div className="Gallery">
             <CommunityPage/>
-            <HakayaPage/>
-            <IstSyrienSicherPage/>
-            <YallaPage/>
-            <IwanPage/>
             <LayaliPage/>
+            <YallaPage/>
+            <IstSyrienSicherPage/>
+            <IwanPage/>
+            <HakayaPage/>
             <WorkshopPage/>
             <MusiqanaPage/>
 
