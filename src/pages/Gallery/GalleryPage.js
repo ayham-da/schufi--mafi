@@ -8,6 +8,10 @@ import LayaliPage from "./Layali/Layali";
 import MusiqanaPage from "./Musiqana/Musiqana";
 import YallaPage from "./Yalla/Yalla";
 import WorkshopPage from "./Workshop/Workshop";
+import Share3 from "./Share3/Share3";
+import Fadaa from "./Fadaa/Fadaa";
+
+
 
 
 
@@ -15,7 +19,9 @@ import WorkshopPage from "./Workshop/Workshop";
 function GalleryPage() {
     return (
         <div className="Gallery">
+            <Share3/>
             <CommunityPage/>
+            <Fadaa/>
             <LayaliPage/>
             <YallaPage/>
             <IstSyrienSicherPage/>
