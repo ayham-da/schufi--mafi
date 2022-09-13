@@ -20,7 +20,7 @@ function App(): JSX.Element {
         <MainHeader />
         <Switch>
           <Route path="/Loading" exact>            <Loading />         </Route>
-          <Route path="/Home" >       <Home />            </Route>
+          <Route path="/" >       <Home />            </Route>
           <Route path="/überuns" >          <AboutMe />         </Route>
           <Route path="/events" >           <MyProjekt />       </Route>
           <Route path="/jornalist" >        <Jornalist />       </Route>
