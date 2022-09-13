@@ -20,7 +20,7 @@ class Loading extends Component {
 
   render() {
     return this.state.redirect
-      ? <Redirect to="/" />
+      ? <Redirect to="/Home" />
       : <div>
          <Helmet>
                 <meta charSet="utf-8" />
