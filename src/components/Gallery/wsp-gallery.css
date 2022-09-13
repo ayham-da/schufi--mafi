@@ -42,7 +42,6 @@
 .sliderWrap .btnClose, .sliderWrap .btnPrev, .sliderWrap .btnNext {
   position: fixed;
   cursor: pointer;
-  opacity: 0.6;
   color: #ffffff;
   z-index: 9999;
 }
@@ -63,13 +62,13 @@
 
 .sliderWrap .btnPrev {
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-80%);
   left: 40px;
 }
 
 .sliderWrap .btnNext {
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-80%);
   right: 40px;
 }
 
@@ -106,6 +105,16 @@
     height: 200px;
 
   }
+  .sliderWrap .btnPrev {
+    top: 30%;
+    height: 1.8em;
+  }
+
+  .sliderWrap .btnNext {
+    top: 30%;
+    height: 1.8em;
+  }
+  .svg-inline--fa {}
 }
 
 @media (min-width: 600px) {
@@ -120,6 +129,16 @@
     height: 280px;
 
   }
+  .sliderWrap .btnPrev {
+    top: 50%;
+    height: 1.8em;
+  }
+
+  .sliderWrap .btnNext {
+    top: 50%;
+    height: 1.8em;
+  }
+
 }
 
 @media (min-width: 1000px) {
