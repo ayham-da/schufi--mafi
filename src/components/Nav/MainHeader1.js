@@ -19,7 +19,7 @@ const MainHeader = props => {
         className="navbar1 navbar-fixed-top" activeKey={location}
         expanded={expanded}
       >
-        <Navbar.Brand className="navbar-brand1" exact href="/" eventKey="/Home" >
+        <Navbar.Brand className="navbar-brand1" exact href="/" eventKey="/" >
           <span className="navbar-brand-Text ml-1">SCHU FI MA FI</span>
         </Navbar.Brand>
         <Navbar.Toggle
