@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.33398e65.chunk.css",
-    "main.js": "/static/js/main.395b2ab9.chunk.js",
-    "main.js.map": "/static/js/main.395b2ab9.chunk.js.map",
+    "main.js": "/static/js/main.366763b6.chunk.js",
+    "main.js.map": "/static/js/main.366763b6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c6122816.js",
     "runtime-main.js.map": "/static/js/runtime-main.c6122816.js.map",
     "static/css/2.f88c2240.chunk.css": "/static/css/2.f88c2240.chunk.css",
@@ -40,6 +40,7 @@
     "static/media/Yalla6.ca0825f9.jpg": "/static/media/Yalla6.ca0825f9.jpg",
     "static/media/aboutUs.127b8d3c.jpg": "/static/media/aboutUs.127b8d3c.jpg",
     "static/media/article1.f4335125.png": "/static/media/article1.f4335125.png",
+    "static/media/article2.aa75219e.jpeg": "/static/media/article2.aa75219e.jpeg",
     "static/media/baraa.1fd67261.png": "/static/media/baraa.1fd67261.png",
     "static/media/nabel.ee97a372.png": "/static/media/nabel.ee97a372.png",
     "static/media/samer.d5f82aea.png": "/static/media/samer.d5f82aea.png",
@@ -54,6 +55,6 @@
     "static/css/2.f88c2240.chunk.css",
     "static/js/2.037cd6d1.chunk.js",
     "static/css/main.33398e65.chunk.css",
-    "static/js/main.395b2ab9.chunk.js"
+    "static/js/main.366763b6.chunk.js"
   ]
 }
