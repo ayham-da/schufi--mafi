@@ -10,6 +10,7 @@ import {Helmet} from 'react-helmet';
 import JornalistItemList            from '../../components/Jornalist/JornalistItemList'
 
 import article1 from "../../assets/img/article1.png"
+import article2 from "../../assets/img/article2.jpeg"
 
 
 
@@ -17,7 +18,7 @@ import article1 from "../../assets/img/article1.png"
 
 const Articles = [
     {
-        id: 'p1',
+        id: 'a1',
         title: 'Wie zehn Syrer das Kollektiv Schu Fi Ma Fi gründeten\n' +
             ':\n' +
             'Die Erinnerung an Syrien lebendig halten',
@@ -27,6 +28,16 @@ const Articles = [
         imageUrl: article1 ,
         imageAlt: 'article1',
         articleUrl: 'https://rp-online.de/nrw/staedte/duesseldorf/duesseldorf-die-erinnerung-an-syrien-lebendig-halten_aid-64932579',
+    },
+    {
+        id: 'a2',
+        title: 'Welche Folgen die Corona-Pandemie für Geflüchtete und die Integration hat, wird in der Politik kaum thematisiert.',
+        date:'25 Januar 2022',
+        ort:'Düsseldorf',
+        description: 'Welche Folgen die Corona-Pandemie für Geflüchtete und die Integration hat, wird in der Politik kaum thematisiert. Dabei lässt sich deutlich erkennen, dass die Coronakrise auch in dieser Hinsicht Spuren hinterlässt.',
+        imageUrl: article2 ,
+        imageAlt: 'article2',
+        articleUrl: 'https://www.kohero-magazin.de/wie-die-pandemie-die-integration-droht/',
     }
 ];
 
