@@ -19,7 +19,7 @@ function App(): JSX.Element {
       <Router basename='/'>
         <MainHeader />
         <Switch>
-          <Route path="/Home" exact>        <Loading />         </Route>
+          <Route path="/" exact>        <Loading />         </Route>
           <Route path="/" >             <Home />            </Route>
           <Route path="/überuns" >          <AboutMe />         </Route>
           <Route path="/events" >           <MyProjekt />       </Route>
