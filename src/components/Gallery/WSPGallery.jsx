@@ -10,7 +10,6 @@ import {
 import './wsp-gallery.css'
 import ReadMore from "./readMore";
 import Modal from "react-bootstrap/Modal";
-import Button from "react-bootstrap/Button";
 
 const WSPGallery = ({galleryImages}) => {
 
@@ -48,9 +47,8 @@ const WSPGallery = ({galleryImages}) => {
               className='sliderWrap'
               show={openModal}
                  onHide={handleCloseModal}
-                 animation={false}
+                 animation
                  size="lg"
-                 aria-labelledby="contained-modal-title-vcenter"
                  centered>
             <Modal.Header closeButton>
               <Modal.Title>{galleryImages[slideNumber].title}</Modal.Title>
@@ -77,7 +75,7 @@ const WSPGallery = ({galleryImages}) => {
                 <Card>
                   <Card.Img onClick={ () => handleOpenModal(slideNumber) } variant="top" src={galleryImages[0].img} alt={galleryImages[0].title} />
                   <Card.Body>
-                    <Card.Title>{galleryImages[0].title}</Card.Title>
+                    <Card.Title className='Card-gallery-title'>{galleryImages[0].title}</Card.Title>
                     <Card.Text>
                       <ReadMore title={galleryImages[0].title} description={galleryImages[0].description}>
                         {galleryImages[0].description}

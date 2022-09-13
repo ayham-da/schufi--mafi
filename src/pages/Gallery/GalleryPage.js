@@ -15,7 +15,6 @@ import WorkshopPage from "./Workshop/Workshop";
 function GalleryPage() {
     return (
         <div className="Gallery">
-            <br />
             <CommunityPage/>
             <HakayaPage/>
             <IstSyrienSicherPage/>
