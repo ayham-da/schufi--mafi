@@ -29,7 +29,6 @@ const Contact = () => {
             <Animate to="1" from="0" attributeName="opacity">
                     <Row className={classes.rowStyle}>
                         <Card className={classes.root}>
-                            <CardContent>
                                 <Image src={firstImg} className="kontakt-main-img" alt="Image of SCHU FI MA FI"/>
 
                                 <Typography
@@ -44,8 +43,6 @@ const Contact = () => {
                                     <div className="socialIcons-footer" >
                                         <SocialIcons />
                                     </div>
-                                </Card.Body>
-                                <CardActionArea>
                                     <Typography
                                         color="dark"
                                         className={classes.typo}
@@ -78,8 +75,7 @@ const Contact = () => {
                                         className={classes.typo}>
                                         Haben Sie noch Fragen? Schreiben Sie Uns!
                                     </Typography>
-                                </CardActionArea>
-                            </CardContent>
+                                </Card.Body>
                         </Card>
                     </Row>
 

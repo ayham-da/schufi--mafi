@@ -4,9 +4,9 @@ const useStyles = makeStyles((theme) => ({
   root: {
     width:"90%",
     maxWidth: "100%",
-    minWidth:"350px",
-    minHeight: "65vh !important",
-    margin: "50px 15px 200px 30px"
+    minWidth:"300px",
+    minHeight: "80vh !important",
+    margin: "50px 10px 200px 24px"
   },
   headImg: {
     justifyContent: "center",
