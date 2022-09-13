@@ -1,0 +1,24 @@
+.kontakt-main-img {
+    max-width: 100%;
+    margin: auto;
+    display: block;
+    border: 2px solid white;
+}
+@media (min-width: 300px) {
+    .kontakt-main-img {
+
+    }
+}
+@media (min-width: 600px) {
+    .kontakt-main-img {
+    }
+}
+@media (min-width: 1000px) {
+    .kontakt-main-img {
+    }
+}
+@media (min-width: 1200px) {
+    .kontakt-main-img {
+        height: 40vh;
+    }
+}
