@@ -18,8 +18,8 @@ const JornalistItem = props => {
             className="mb-2 home-description"
         >
           <Card.Body>
-            <Image src={props.imageUrl} className="home-main-img" alt={props.imageAlt}/>
-            <Card.Title className="home-card-title">{props.title}</Card.Title>
+            <Image src={props.imageUrl} className="Jornalist-main-img" alt={props.imageAlt}/>
+            <Card.Title className="Jornalist-card-title">{props.title}</Card.Title>
             <Card.Text>
               <div className="card-info">
                 <p className="p-info">{props.date}, {props.ort}</p>

@@ -33,7 +33,19 @@
   margin: 0.5rem;
 }
 
-
+.Jornalist-main-img {
+  max-width: 100%;
+  margin: auto;
+  display: block;
+  border: 2px solid white;
+}
+.Jornalist-card-title{
+  background-color: black !important;
+  color: white !important;
+  padding: 5px;
+  margin-top: 5px;
+  font-size: 18px;
+}
 
 @media (min-width: 300px) {
   .Jornalist-item {
