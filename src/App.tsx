@@ -16,11 +16,11 @@ import MainHeader from './components/Nav/MainHeader1'
 
 function App(): JSX.Element {
   return (
-      <Router basename='/schufi-mafi'>
+      <Router basename='/'>
         <MainHeader />
         <Switch>
-          <Route path="/schufi-mafi" exact>            <Loading />         </Route>
-          <Route path="/schufi-mafi" >       <Home />            </Route>
+          <Route path="/Loading" exact>            <Loading />         </Route>
+          <Route path="/Home" >       <Home />            </Route>
           <Route path="/überuns" >          <AboutMe />         </Route>
           <Route path="/events" >           <MyProjekt />       </Route>
           <Route path="/jornalist" >        <Jornalist />       </Route>
