@@ -3,7 +3,11 @@
   justify-content: space-between;
   padding: 5px;
   }
- 
+@media (min-width: 1100px) {
+  .social-icons{
+    min-width: 300px;
+  }
+}
   .fb{
     margin: 2%;
     color: black;
