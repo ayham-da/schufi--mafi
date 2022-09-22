@@ -40,18 +40,12 @@ function Home() {
                                 ist ein syrisches kulturelle Kollektiv, das seit 2018 in der
                                 Kulturszene in Deutschland aktiv ist. Wir streben eine offene und gesunde Gesellschaft an, der
                                 auf Augenhöhe miteinander kommuniziert und sich austauscht.
-                            </Card.Text>
-                            <Card.Text>
                                 Das Kollektiv gestaltet sein eigenes Kulturprogramm aus vielfältigen Bereichen wie Musik,
                                 Literatur, Politik, Entertainment und Gesellschaft für das NRW Publikum im Schwerpunkt das
                                 syrische Publikum.
-                            </Card.Text>
-                            <Card.Text>
                                 Wir schaffen Räume für einen deutsch-syrisch Dialog sowie einen syrisch-syrisch Dialog, denn
                                 solche Möglichkeiten für Austausch und Begegnung im demokratischen Rahmen in Syrien
                                 waren unter dem Diktatur nicht möglich.
-                            </Card.Text>
-                            <Card.Text>
                                 Die hier lebenden Syrer und Syrerinnen Perspektiven zu ermitteln, die eigene Stimme in der
                                 Kulturszene zu erheben, sowie ein buntes Kulturprogramm hier zu lande zu präsentieren sind
                                 einige unsere Ziele, die wir durch unsere ehrenamtliches Engagement und unsere Verständnis
