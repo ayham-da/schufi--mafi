@@ -4,6 +4,12 @@
     display: block;
     border: 2px solid white;
 }
+.socialIcons-footer-kontakt {
+    background-color: white;
+    max-width: 100%;
+    margin: 2rem auto;
+    display: block;
+}
 @media (min-width: 300px) {
     .kontakt-main-img {
 

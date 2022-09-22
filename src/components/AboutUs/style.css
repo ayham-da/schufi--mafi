@@ -33,6 +33,12 @@ margin-top: 25px;
     align-items: center;
     margin: auto;
 }
+.socialIcons-footer-AboutUs{
+    background-color: white;
+    max-width: 30%;
+    margin: 2rem auto;
+    display: block;
+}
 
 @media (min-width: 1000px) {
     .aboutUs-main-img{

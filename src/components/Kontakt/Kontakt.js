@@ -40,7 +40,7 @@ const Contact = () => {
                                 <Card.Body
                                     className="text-center gmap-container d-flex flex-column align-items-stretch align-content-stretch"
                                 >
-                                    <div className="socialIcons-footer" >
+                                    <div className="socialIcons-footer-kontakt" >
                                         <SocialIcons />
                                     </div>
                                     <Typography

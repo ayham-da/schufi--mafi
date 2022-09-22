@@ -12,7 +12,7 @@ function AboutUs() {
       <Row className="aboutUs-main">
         <Col sm={12} className="aboutUs-main-top">
             <Image src={aboutUs} className="aboutUs-main-img" alt="Image of SCHU FI MA FI"/>
-            <div className="socialIcons-footer" >
+            <div className="socialIcons-footer-AboutUs" >
               <SocialIcons />
             </div>
         </Col>

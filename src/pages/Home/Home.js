@@ -24,7 +24,7 @@ function Home() {
             <Row className="App-home-main">
               <Col sm={12} className="home-main-top">
                   <Image src={schufimafi} className="home-main-img" alt="Image of SCHU FI MA FI"/>
-                  <div className="socialIcons-footer" >
+                  <div className="socialIcons-footer-Home" >
                       <SocialIcons />
                   </div>
               </Col>

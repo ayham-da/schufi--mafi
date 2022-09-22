@@ -9,7 +9,6 @@ import { faFacebook, faTiktok, faInstagram } from '@fortawesome/free-brands-svg-
 function SocialIcons() {
   return (
          <Col sm={12} className="social-icons">
-          &nbsp; &nbsp; &nbsp; &nbsp;
           <a href="https://www.facebook.com/Schu.fi.ma.fi" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon className="fb" icon={faFacebook} size="2x"/>
           </a>
