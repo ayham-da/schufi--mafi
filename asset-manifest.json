@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ad5c9b9.chunk.css",
-    "main.js": "/static/js/main.ca2bf0e5.chunk.js",
-    "main.js.map": "/static/js/main.ca2bf0e5.chunk.js.map",
+    "main.css": "/static/css/main.cad165de.chunk.css",
+    "main.js": "/static/js/main.65e9a60f.chunk.js",
+    "main.js.map": "/static/js/main.65e9a60f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c6122816.js",
     "runtime-main.js.map": "/static/js/runtime-main.c6122816.js.map",
     "static/css/2.f88c2240.chunk.css": "/static/css/2.f88c2240.chunk.css",
-    "static/js/2.1a39bd93.chunk.js": "/static/js/2.1a39bd93.chunk.js",
-    "static/js/2.1a39bd93.chunk.js.map": "/static/js/2.1a39bd93.chunk.js.map",
+    "static/js/2.e57da141.chunk.js": "/static/js/2.e57da141.chunk.js",
+    "static/js/2.e57da141.chunk.js.map": "/static/js/2.e57da141.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f88c2240.chunk.css.map": "/static/css/2.f88c2240.chunk.css.map",
-    "static/css/main.7ad5c9b9.chunk.css.map": "/static/css/main.7ad5c9b9.chunk.css.map",
-    "static/js/2.1a39bd93.chunk.js.LICENSE.txt": "/static/js/2.1a39bd93.chunk.js.LICENSE.txt",
+    "static/css/main.cad165de.chunk.css.map": "/static/css/main.cad165de.chunk.css.map",
+    "static/js/2.e57da141.chunk.js.LICENSE.txt": "/static/js/2.e57da141.chunk.js.LICENSE.txt",
     "static/media/Ayla1.4aae9f8e.jpg": "/static/media/Ayla1.4aae9f8e.jpg",
     "static/media/Basel1.4760f19e.jpg": "/static/media/Basel1.4760f19e.jpg",
     "static/media/Community1.d05d58f8.jpg": "/static/media/Community1.d05d58f8.jpg",
@@ -41,6 +41,8 @@
     "static/media/aboutUs.127b8d3c.jpg": "/static/media/aboutUs.127b8d3c.jpg",
     "static/media/article1.f4335125.png": "/static/media/article1.f4335125.png",
     "static/media/article2.aa75219e.jpeg": "/static/media/article2.aa75219e.jpeg",
+    "static/media/article3.d084d3b6.jpeg": "/static/media/article3.d084d3b6.jpeg",
+    "static/media/article4.f49b9a58.jpeg": "/static/media/article4.f49b9a58.jpeg",
     "static/media/baraa.1fd67261.png": "/static/media/baraa.1fd67261.png",
     "static/media/nabel.ee97a372.png": "/static/media/nabel.ee97a372.png",
     "static/media/samer.d5f82aea.png": "/static/media/samer.d5f82aea.png",
@@ -53,8 +55,8 @@
   "entrypoints": [
     "static/js/runtime-main.c6122816.js",
     "static/css/2.f88c2240.chunk.css",
-    "static/js/2.1a39bd93.chunk.js",
-    "static/css/main.7ad5c9b9.chunk.css",
-    "static/js/main.ca2bf0e5.chunk.js"
+    "static/js/2.e57da141.chunk.js",
+    "static/css/main.cad165de.chunk.css",
+    "static/js/main.65e9a60f.chunk.js"
   ]
 }
