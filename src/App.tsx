@@ -15,7 +15,7 @@ import MainHeader from './components/Nav/MainHeader1'
 
 function App(): JSX.Element {
   return (
-      <Router>
+      <Router basename="Home">
         <MainHeader />
         <Switch>
           <Route exact path="/Home" >             <Home />            </Route>
