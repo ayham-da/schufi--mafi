@@ -15,10 +15,10 @@ import MainHeader from './components/Nav/MainHeader1'
 
 function App(): JSX.Element {
   return (
-      <Router basename="Home">
+      <Router basename="/">
         <MainHeader />
         <Switch>
-          <Route exact path="/Home" >             <Home />            </Route>
+          <Route exact path="/" >             <Home />            </Route>
           <Route exact path="/überuns" >          <AboutMe />         </Route>
           <Route exact path="/events" >           <MyProjekt />       </Route>
           <Route exact path="/jornalist" >        <Jornalist />       </Route>
