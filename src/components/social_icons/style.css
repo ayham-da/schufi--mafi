@@ -48,3 +48,12 @@
   .linkedin:hover{
     color: #0e76a8;
   }
+
+  .youtube{
+    margin: 2%;
+    color: black;
+  }
+
+  .youtube:hover{
+    color: #e00d0d;
+  }
