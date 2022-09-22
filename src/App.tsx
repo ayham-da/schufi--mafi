@@ -18,13 +18,13 @@ function App(): JSX.Element {
       <Router>
         <MainHeader />
         <Switch>
-          <Route path="/Home" >             <Home />            </Route>
-          <Route path="/überuns" >          <AboutMe />         </Route>
-          <Route path="/events" >           <MyProjekt />       </Route>
-          <Route path="/jornalist" >        <Jornalist />       </Route>
-          <Route path="/gallery">           <Gallery />         </Route>
-          <Route path="/kontakt">           <Contact />         </Route>
-          <Route path="*" >                 <Home />            </Route>
+          <Route exact path="/Home" >             <Home />            </Route>
+          <Route exact path="/überuns" >          <AboutMe />         </Route>
+          <Route exact path="/events" >           <MyProjekt />       </Route>
+          <Route exact path="/jornalist" >        <Jornalist />       </Route>
+          <Route exact path="/gallery">           <Gallery />         </Route>
+          <Route exact path="/kontakt">           <Contact />         </Route>
+          <Route exact path="*" >                 <Home />            </Route>
 
 
         </Switch>
